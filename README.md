@@ -1,4 +1,4 @@
-#🛒 Blinkit Grocery Sales Analysis
+🛒 Blinkit Grocery Sales Analysis
 
 📌 Project Overview
 This project analyzes grocery sales data from Blinkit, India’s quick commerce platform. The workflow follows a complete analytics pipeline:
