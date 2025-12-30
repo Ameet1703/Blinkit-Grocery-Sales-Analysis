@@ -57,4 +57,3 @@ Code
 
 🙌 Acknowledgments
 This project demonstrates a complete analytics workflow: Python for cleaning → SQL for analysis → Power BI for visualization, applied to a real world retail dataset.
-
